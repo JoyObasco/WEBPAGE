@@ -26,6 +26,7 @@ body{
 
 .box{
   background-image: url('./bbi.jpg');
+  background-size: cover;
   background-position: 0 0;
   background-repeat: no-repeat;
   height: 100vh;
@@ -93,7 +94,7 @@ body{
 }
 
 .container p{
-  font-size: 1rem;
+  font-size: 1.5rem;
   color: #ffffff;
   text-align: center;
   line-height: 30px;
