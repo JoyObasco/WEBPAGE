@@ -1,0 +1,13 @@
+  .about-main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem;
+    height: calc(100% - 5rem - 4rem);
+  }
+
+  
+
+  
+
