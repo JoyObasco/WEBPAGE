@@ -246,7 +246,7 @@ footer p{
   color: #ff0fff;
 }
 
-@media screen and (min-width:768px) {
+@media screen and (max-width:1024px) {
   .main-nav ul{
     width: 40%;
   }
